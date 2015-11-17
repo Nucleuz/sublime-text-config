@@ -1,6 +1,6 @@
-#1 sublimetext-config
+# sublimetext-config
 My Sublime Text 3 configuration files
 
 
-#3 For Ubuntu
+## For Ubuntu
 clone into .config/sublime-text-3/Packages/User/
