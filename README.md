@@ -1,2 +1,2 @@
-# sublime-text-config
+# sublimetext-config
 My Sublime Text 3 configuration files
