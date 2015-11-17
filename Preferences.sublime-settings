@@ -1,0 +1,18 @@
+{
+	"color_scheme": "Packages/User/SublimeLinter/itg.Monokai (SL).tmTheme",
+	"ignored_packages":
+	[
+		"Vintage"
+	],
+	"scroll_speed": 0,
+	"theme": "itg.flat.dark.sublime-theme",
+
+	// small tabs
+	"itg_small_tabs": true,
+
+	// Sidebar padding options
+	"itg_sidebar_tree_small": true,
+
+	// Scrollbar size options
+	"itg_scrollbar_medium": true
+}
